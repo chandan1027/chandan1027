@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @chandan1027 (Chandan R)
+- 👀 I’m interested in UI/UX designing and Python
+- 🌱 I’m currently learning Python , Flask , Figma , Data Science Tools ...
+- 💞️ I’m looking to collaborate on end to end real time projects !!
+- 📫 How to reach me -> "chandanrnaik1827@gmail.com"
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am **Cool**
